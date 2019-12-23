@@ -1,0 +1,2 @@
+
+#RewriteRule ^reg?$ reg.php [NC, L]
